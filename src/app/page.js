@@ -1,9 +1,9 @@
 "use client";
+import FacebookIcon from "@/components/svgs/Facebookicon";
+import InstagramIcon from "@/components/svgs/InstagramIcon";
+import TikTokIcon from "@/components/svgs/TikTokIcon";
 import Image from "next/image";
 import { useEffect, useRef } from "react";
-import FacebookIcon from "./svgs/FacebookIcon";
-import InstagramIcon from "./svgs/InstagramIcon";
-import TikTokIcon from "./svgs/TikTokIcon";
 
 export default function Home() {
   const cursorRef = useRef(null);
