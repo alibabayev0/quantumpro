@@ -38,8 +38,8 @@ export async function generateMetadata({ params }) {
     title: "QuantumPro",
     description: "Video Production Services!",
     icons: {
-      icon: ["/favicon.ico?v=1"],
-      apple: ["/apple-touch-icon.png?v=1"],
+      icon: ["/favicon.ico?v=2"],
+      apple: ["/apple-touch-icon.png?v=2"],
       shortcut: ["/apple-touch-icon.png"],
     },
     manifest: "/site.webmanifest",
